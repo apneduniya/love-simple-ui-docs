@@ -11,14 +11,15 @@ const config: DocsThemeConfig = {
       };
     }
   },
+  faviconGlyph: "✨",
+  docsRepositoryBase: "https://github.com/thekavikumar/simple-ui-devstuff",
   logo: <h1 className="logo">Simple UI</h1>,
   project: {
-    link: "https://github.com/shuding/nextra-docs-template",
+    link: "https://github.com/thekavikumar/simple-ui-devstuff",
   },
   chat: {
-    link: "https://discord.com",
+    link: "https://discord.gg/kBefU7D76n",
   },
-  docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
   footer: {
     text: "© 2022 Simple UI. Made with ❤️ by Kavikumar.",
   },

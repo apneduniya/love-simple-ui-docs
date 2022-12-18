@@ -1,14 +1,10 @@
 {
   "index": "Getting Started",
-  "contribute": "Contribute",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "Components": "✨ Components",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/thekavikumar",
+    "href": "https://www.instagram.com/mr.cyber_ninja/",
     "newWindow": true
   }
 }

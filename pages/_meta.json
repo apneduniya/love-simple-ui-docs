@@ -1,6 +1,12 @@
 {
   "index": "Getting Started",
   "Components": "✨ Components",
+  "npm": {
+    "title": "📦 NPM",
+    "type": "page",
+    "href": "https://www.npmjs.com/package/simple-ui-devstuff",
+    "newWindow": true
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",

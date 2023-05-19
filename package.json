@@ -1,5 +1,5 @@
 {
-  "name": "simple-ui",
+  "name": "love-simple-ui",
   "version": "0.0.1",
   "description": "Docs for Simple UI Devstuff Package",
   "scripts": {
@@ -10,13 +10,13 @@
   },
   "author": "thekavikumar",
   "dependencies": {
+    "love-simple-ui": "^1.0.15",
     "next": "^13.0.6",
     "nextra": "2.0.1",
     "nextra-theme-docs": "2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.7.1",
-    "simple-ui-devstuff": "^1.0.10"
+    "react-icons": "^4.7.1"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
